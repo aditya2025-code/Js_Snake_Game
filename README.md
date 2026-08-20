@@ -2,7 +2,8 @@
 
 This is my **first JavaScript game**, and I'm really excited to share it! I built this project to get hands-on with core JavaScript concepts like the game loops, and event handling — all wrapped up in the classic Snake game we all grew up playing.
 
-🎮 **Play it live:** [jssnakegame67.netlify.app](https://jssnakegame67.netlify.app/)
+🎮 **Play it live:**(Currently not optimized for mobile devices)
+[Play Now](https://jssnakegame67.netlify.app/)
 
 ## 🎥 Demo
 
